@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Praveen M</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
 
-- My Projects: [Covid-19 Tracker](https://covid-19-tracker-f5202.web.app/)[Simon Game](https://praveen-devv.github.io/Simon-Game/)[Drum Kit](https://praveen-devv.github.io/Drum-Kit/)
+- My Projects: [Covid-19 Tracker](https://covid-19-tracker-f5202.web.app/)
+- [Simon Game](https://praveen-devv.github.io/Simon-Game/)
+- [Drum Kit](https://praveen-devv.github.io/Drum-Kit/)
 
 - 🌱 I’m currently learning **React JS**
 
