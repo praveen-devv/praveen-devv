@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 Check out my projects at [https://praveen-devv.github.io/](https://praveen-devv.github.io/)
+- 👨‍💻 Check out my projects at [https://praveen-devv.github.io/](https://praveen-devv.github.iio/)
 
 - 📫 How to reach me **praveenmohan2408@gmail.com**
 
