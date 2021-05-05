@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 Check out my projects at [https://praveen-devv.github.io/](https://praveen-devv.github.iio/)
+- 👨‍💻 Check out my projects at [https://praveen-devv.github.io/](https://praveen-devv.github.io/)
 
 - 📫 How to reach me **praveenmohan2408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XcnibWyfwz1zeiZ7ZLhBaFQ25J9_YznW/view?usp=sharing](https://drive.google.com/file/d/1XcnibWyfwz1zeiZ7ZLhBaFQ25J9_YznW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LR99iHjQYoF6NY670bM--KvMfqEDXCWL/view?usp=sharing](https://drive.google.com/file/d/1LR99iHjQYoF6NY670bM--KvMfqEDXCWL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
