@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **praveenmohan2408@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LR99iHjQYoF6NY670bM--KvMfqEDXCWL/view?usp=sharing](https://drive.google.com/file/d/1LR99iHjQYoF6NY670bM--KvMfqEDXCWL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1edpDOpaHuiZc_rlCLCjA3GvnGvU2kD-n/view?usp=sharing](https://drive.google.com/file/d/1edpDOpaHuiZc_rlCLCjA3GvnGvU2kD-n/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
